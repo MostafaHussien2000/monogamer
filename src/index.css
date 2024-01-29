@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #131620;
+  font-family: "Poppins", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body::-webkit-scrollbar {
+  width: 8px;
+  background: #ffffff11;
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  width: 5px;
+  background: #f04b41;
+  border-radius: 5px;
+}
